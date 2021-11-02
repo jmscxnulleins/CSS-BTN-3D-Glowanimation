@@ -1,0 +1,12 @@
+{
+  "name": "07_btn-neongloweffect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

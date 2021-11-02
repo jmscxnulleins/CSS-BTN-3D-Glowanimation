@@ -1,0 +1,11 @@
+{
+    "configurations": [
+
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": "file:///D:/Hello_World_Dev/07_html5-css3/07_btn-neonGlowEffect/index.html" // Provide your project's url to finish configuring
+        }
+    ]
+}
